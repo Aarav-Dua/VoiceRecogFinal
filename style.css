@@ -1,0 +1,55 @@
+#HeadKaEr{
+ 
+    background-color: yellow;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+#BoKaDy{
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#PhoKaTo{
+background-color: yellow;
+padding-bottom: 30px;
+padding-top: 30px;
+}
+
+h1{
+    font-family: 'Redressed', cursive;
+    color:crimson;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px pink;
+}
+
+#ResKaUlt {
+
+font-family: 'Rowdies', cursive;
+color: black;
+background-color: aqua;
+width: 40%;
+border-radius: 30px;
+
+}
+
+#ResultKaAccuracy{
+
+font-family: 'Rowdies', cursive;
+color: black;
+background-color: aqua;
+width: 35%;
+border-radius: 30px;
+
+}
+
+#PhoKaTo
+{
+
+font-family:'Redressed', cursive;
+color: red;
+text-shadow: 3px 3px 3px black;
+
+}
